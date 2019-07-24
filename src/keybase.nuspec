@@ -6,14 +6,14 @@
     <id>keybase</id>
     <version>4.2.0</version>
     <packageSourceUrl>https://github.com/ferventcoder/chocolatey-packages</packageSourceUrl>
-    <owners>chocolatey, Rob Reynolds, Fabio A. Correa Duran</owners>
+    <owners>Rob Reynolds, Fabio A. Correa Duran</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <title>Keybase (Install)</title>
     <authors>Keybase Inc.</authors>
     <projectUrl>https://keybase.io/</projectUrl>
-    <iconUrl>https://keybase.io/images/icons/icon-keybase-logo-48.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/facorread/keybase-chocolatey/a40ff696ec994c422c0062f98aadfcf9b6f1837d/icon_256x256.png</iconUrl>
     <copyright>Copyright (c) Keybase, Inc. All rights reserved.</copyright>
     <licenseUrl>https://keybase.io/docs/terms</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
