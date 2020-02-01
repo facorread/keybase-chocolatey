@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>keybase</id>
-    <version>5.1.1</version>
+    <version>5.2.0</version>
     <title>Keybase (Install)</title>
     <authors>Keybase Inc.</authors>
     <owners>Rob Reynolds, Fabio A. Correa Duran</owners>
@@ -18,7 +18,7 @@ The Keybase app helps you perform cryptographically-secure operations with peopl
     <copyright>Copyright (c) Keybase, Inc. All rights reserved.</copyright>
     <tags>keybase gpg pgp crypto security foss admin</tags>
     <projectSourceUrl>https://github.com/keybase/client</projectSourceUrl>
-    <packageSourceUrl>https://github.com/ferventcoder/chocolatey-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/facorread/keybase-chocolatey</packageSourceUrl>
     <docsUrl>https://keybase.io/docs</docsUrl>
     <bugTrackerUrl>https://github.com/keybase/client/issues</bugTrackerUrl>
     <dependencies>
