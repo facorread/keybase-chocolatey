@@ -9,8 +9,8 @@ $packageArgs = @{
   softwareName           = 'Keybase*'
   FileType               = 'msi'
   SilentArgs             = "/qn /norestart /l*v `"$env:TEMP\$env:ChocolateyPackageName.$env:ChocolateyPackageVersion.log`""
-  url                    = 'https://prerelease.keybase.io/windows/Keybase_5.4.0-20200416113609%2Be81aee5eaf.amd64.msi'
-  checksum               = '5976868bb9db4f32dc12f242ac1f3cc5e24dfe4439b77d396c717d0f8238f470'
+  url                    = 'https://prerelease.keybase.io/windows/Keybase_5.4.1-20200422160108%2B0b914051a6.amd64.msi'
+  checksum               = '076459eeb767b15f3227160a5b35495c90321034bef597984e55575892b3171b'
   checksumType           = 'sha256'
   validExitCodes         = @(0,1641,3010)
 }
