@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>keybase</id>
-    <version>6.2.1</version>
+    <version>6.2.5</version>
     <title>Keybase (Install)</title>
     <authors>Keybase Inc.</authors>
     <owners>Rob Reynolds, Fabio A. Correa Duran</owners>
